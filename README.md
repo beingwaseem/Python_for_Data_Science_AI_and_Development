@@ -39,6 +39,7 @@ By completing this course, I've built a strong foundation in Python and essentia
 Feel free to explore the code and resources here to gain insights into my journey through this course and to discover useful Python techniques for your own projects.
 
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9ea2c396-340c-403e-b1e4-834825e5f156" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 
 <h3 align="left">Connect with me:</h3>
