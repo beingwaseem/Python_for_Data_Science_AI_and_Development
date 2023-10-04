@@ -1,8 +1,6 @@
-# Python_for_Data_Science_AI_and_Development
 ![Pyhton for___](https://github.com/beingwaseem/Python_for_Data_Science_AI_and_Development/assets/118182700/6c1b910f-d62d-41d8-8c07-a0b2988c3d5e)
 
-<span style="color:blue"> Analysis of Stock Performance and Dashboard Building </span>
-
+<h1 align="center">Analysis of Stock Performance and Dashboard Building</h1>
 Welcome to the repository for the "Python for Data Science, AI & Development" course! This repository contains my work completed as part of this beginner-friendly, self-paced course, which offers a comprehensive introduction to Python programming for data science, AI, and software development.
 
 ## Tools and Libraries Used
@@ -39,3 +37,16 @@ The course's hands-on labs and exercises were conducted using Jupyter Notebooks,
 By completing this course, I've built a strong foundation in Python and essential skills applicable to roles in data science, AI, data analytics, and software development. This repository serves as documentation of my work and a valuable reference for Python best practices.
 
 Feel free to explore the code and resources here to gain insights into my journey through this course and to discover useful Python techniques for your own projects.
+
+
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/immalikwaseem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="immalikwaseem" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hafiz-waseem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hafiz-waseem" height="30" width="40" /></a>
+<a href="https://medium.com/@immalikwaseem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@immalikwaseem" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
