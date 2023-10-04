@@ -1,5 +1,5 @@
 # Python_for_Data_Science_AI_and_Development
-![Course Logo](https://mega.nz/fm/KUsU2ZpL)
+![Course Logo](https://mega.nz/fm/KUsU2ZpL.png)
 Analysis of Stock Performance and Dashboard Building
 
 Welcome to my repository for the "Python for Data Science, AI & Development" course! This repository contains my work completed as part of this beginner-friendly, self-paced course, which offers a comprehensive introduction to Python programming for data science, AI, and software development.
