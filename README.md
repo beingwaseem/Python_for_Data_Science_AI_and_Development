@@ -1,6 +1,5 @@
 ![Pyhton for___](https://github.com/beingwaseem/Python_for_Data_Science_AI_and_Development/assets/118182700/6c1b910f-d62d-41d8-8c07-a0b2988c3d5e)
 
-<h1 align="center">Analysis of Stock Performance and Dashboard Building</h1>
 Welcome to the repository for the "Python for Data Science, AI & Development" course! This repository contains my work completed as part of this beginner-friendly, self-paced course, which offers a comprehensive introduction to Python programming for data science, AI, and software development.
 
 # 💻 Tech Stack:
